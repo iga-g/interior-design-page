@@ -1,1 +1,1 @@
-It's my new training project - Fullpage Website (subject: Interior Desginer Page)
+It's my new training project - Fullpage Website (subject: page for interior desginer)
