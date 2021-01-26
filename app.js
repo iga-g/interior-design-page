@@ -1,6 +1,7 @@
 new fullpage('#fullpage', {
   autoScrolling: true,
   navigation: true,
+  anchors: ['s1', 's2', 's3', 's4', 's5'],
   onLeave: (origin, destination, direction) => {
     const section = destination.item
     const title = section.querySelector('h1');
