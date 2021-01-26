@@ -2,7 +2,7 @@
 
 ## Description
 
-It's my new training project - Fullpage Website (subject: page for interior desginer) based on [fullpage.js](https://alvarotrigo.com/fullPage/) and its possibilities.
+It's my new training project - Fullpage Website (subject: page for interior designer) based on [fullpage.js](https://alvarotrigo.com/fullPage/) and its possibilities.
 
 ## Roadmap
 
