@@ -6,8 +6,7 @@ It's my new training project - Fullpage Website (subject: page for interior desi
 
 ## Roadmap
 
-I would like to add slider for cards beyond 1024xp width & smooth scroll for anchor 'find me here'.
-
+I would like to add slider for cards beyond 1024xp width.
 ## Project status
 
 It's completed and fully responsive, but I would like to develop when I learn some new features.
