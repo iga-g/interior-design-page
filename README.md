@@ -8,6 +8,8 @@ Website as a showcase of an interior designer. Fullpage Website based on [fullpa
 
 I would like to add slider for cards beyond 1024xp width.
 
+## Authors and acknowledgment
+
 ♡ Thanks to:
 
 [Twitter - Twemoji](https://twemoji.twitter.com/) for favicon [(CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
