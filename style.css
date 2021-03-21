@@ -112,7 +112,7 @@ h4 {
 }
 
 .s1 {
-  background-image: url("img/start3.png");
+  background-image: url("assets/start3.webp");
   background-size: cover;
   background-position: 50% 0;
 }
@@ -127,7 +127,7 @@ h4 {
 }
 
 .s5 {
-  background-image: url("img/end.png");
+  background-image: url("assets/end.webp");
   background-size: cover;
   background-position: 50% 0;
 }
