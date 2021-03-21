@@ -112,7 +112,10 @@ h4 {
 }
 
 .s1 {
-  background-image: url("assets/start3.webp");
+  background-image: -webkit-image-set(
+    url("assets/start3.webp") 1x,
+    url("assets/start3.png") 2x
+  );
   background-size: cover;
   background-position: 50% 0;
 }
